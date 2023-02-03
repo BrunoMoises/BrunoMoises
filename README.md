@@ -1,13 +1,4 @@
-
-
-
-
-
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1> <hr>
-
-My name is Bruno Moises. I work as a Developer.
-
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=BrunoMoises&repo=BrunoMoises&countColorcountColor)
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! My name is Bruno Moises. </h1> 
 
 ### Languages & Tools 🛠  
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&color=green)&nbsp;![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&color=green)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;![GoLang](https://img.shields.io/badge/-GoLang-05122A?style=flat&color=green)&nbsp;  
@@ -30,7 +21,5 @@ My name is Bruno Moises. I work as a Developer.
 <p align="left">
 
 <a href="https://www.linkedin.com/in/brunomoises"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
-<a href="https://www.instagram.com/brunoomoises"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 
 </p>
