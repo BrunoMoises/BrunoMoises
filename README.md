@@ -23,7 +23,7 @@ My name is Bruno Moises. I work as a Developer.
 
 ![Github Statistics](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=BrunoMoises&count_private=true&show_icons=true&theme=tokyonight)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=BrunoMoises&hide_border=true&theme=tokyonight)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=BrunoMoises&theme=tokyonight)
 
 ### Let's connect? 🤝
 
