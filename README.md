@@ -10,11 +10,7 @@
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BrunoMoises&layout=compact&count_private=true&theme=tokyonight)
 
-![Github Statistics](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=BrunoMoises&count_private=true&show_icons=true&theme=tokyonight)
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=BrunoMoises&theme=tokyonight)
 
 ### Let's connect? 🤝
 
