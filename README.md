@@ -5,7 +5,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&color=orange)&nbsp;![Gin](https://img.shields.io/badge/-Gin-05122A?style=flat&color=orange)&nbsp;![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&color=orange)&nbsp;![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&color=orange)&nbsp;![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&color=orange)&nbsp;  
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&color=gray)&nbsp;![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&color=gray)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=gray)&nbsp;![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&color=gray)&nbsp;![AJAX](https://img.shields.io/badge/-AJAX-05122A?style=flat&color=gray)&nbsp;  
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&color=blue)&nbsp;![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&color=blue)&nbsp;![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&color=blue)&nbsp;  
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&color=red)&nbsp;![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&color=red)&nbsp;![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&color=red)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&color=red)&nbsp;![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&color=red)&nbsp;
 
 
 ### Analytics ⚙️
