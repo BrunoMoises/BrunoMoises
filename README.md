@@ -10,9 +10,9 @@
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BrunoMoises&email=bruno_moises_stz@hotmail.com&layout=compact&count_private=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoMoises&hide=contribs,prs)
 
-![Github Statistics](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=BrunoMoises&email=bruno_moises_stz@hotmail.com&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMoises&layout=compact)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=BrunoMoises&email=bruno_moises_stz@hotmail.com&theme=tokyonight)
 
